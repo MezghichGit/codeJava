@@ -1,4 +1,4 @@
-package api2Collection;
+package api3Collection;
 
 public class Voiture implements Comparable{
 	double prix;
